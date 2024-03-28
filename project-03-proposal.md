@@ -1,0 +1,4 @@
+### Project 3 Proposal: Anxiety Spider
+For this project I’d like to explore the ways negative thinking can be engaged with. The game will try to engage with methods from therapeutic practices like CBT to challenge anxieties, intrusive thoughts, and downward spirals of thinking. I’d like to give people the options to either engage further in the negative thinking patterns with some branches to reveal how anxiety creates false narratives.  
+
+To abstract this idea further I’d like to work with the metaphor of anxiety as a spider. Throughout the narrative the spider will be shown as the creator of the protagonist’s isolation and sorrow and ultimately will need to be defeated in order for the story to end successfully. Alternate ending: protagonist gets caught in the web and devoured by the anxiety-spider.  
